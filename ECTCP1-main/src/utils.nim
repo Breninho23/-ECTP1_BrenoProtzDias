@@ -59,7 +59,7 @@ proc adicionaCliente*() =
   linha()
   var cliente = Cliente()
   echo "Bem vindo ao Cadastro de Cliente" 
-  echo "Digite o nome do Cliente"
+  
 
   echo "Digite o nome do Cliente"
   cliente.nomeFantasia=readline(stdin)
