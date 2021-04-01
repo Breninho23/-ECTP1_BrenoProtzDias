@@ -19,7 +19,8 @@ while x != "5":
   case y
       of "1": listaFornecedores()
       of "2": listaClientes()
-      of "3": listaProdutos()          
+      of "3": listaProdutos()
+      of "4": echo "<<<<<<<<"   
       else: echo "Opção inválida" 
         
   
